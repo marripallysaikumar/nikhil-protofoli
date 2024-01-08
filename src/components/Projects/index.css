@@ -1,0 +1,16 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.project-item {
+  display: flex;
+  flex-direction: row;
+  height: 330px;
+  width: 680px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #888888;
+}
